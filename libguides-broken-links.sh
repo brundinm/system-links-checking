@@ -26,7 +26,7 @@
 # if the "libguides-broken-links.tsv" mappings file needs to be revised by
 # reviewing both the subject guides page at
 # "https://libguides.macewan.ca/" and the XML sitemap page at
-# "https://libguides.macewan.ca/sitemap.xml" -- there are currently 72
+# "https://libguides.macewan.ca/sitemap.xml" -- there are currently 73
 # published guides that are listed in the mappings file.
 # (3) The LibGuides broken links tab-delimited file
 # "libguides-broken-links.csv" from the script output can be either pasted or
