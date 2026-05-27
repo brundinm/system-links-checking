@@ -25,7 +25,7 @@ libguides-mappings.tsv to add another field consisting of guide names to the
 output file, and the script features two functions to control program flow and
 logic.
 
-The drupal-broken-links.sh and talis-aspire-broken-links.sh scripts are more
+The dspace-broken-links.sh and talis-aspire-broken-links.sh scripts are more
 complex, with each script featuring three functions that serve to
 compartmentalize and control program flow and logic.  These two scripts are
 more involved because neither the DSpace institutional repository nor the Talis
