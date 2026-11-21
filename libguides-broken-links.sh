@@ -36,7 +36,7 @@
 # include valid, warnings, and errors links; removing the "--no-warnings"
 # option will log both errors and warnings.
 # (5) The types of HTTP status code errors in column 4 "result" of the
-# "dspace-broken-links.csv" file that reliably tend to indicate a broken
+# "libguides-broken-links.csv" file that reliably tend to indicate a broken
 # link include 404 (404, 404 Not found, 404 OK, 404 Page not found: [. . .],
 # 404 The requested content does not exist, 404 Unknown site), 409 (409
 # Conflict), 410 (410 Gone), and 500 (500 Internal Server Error).  Other error
